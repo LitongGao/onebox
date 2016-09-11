@@ -11,6 +11,7 @@ namespace Onebox
         static void Main(string[] args)
         {
             Console.WriteLine("T3");
+            Console.WriteLine(DateTime.Now);
             Console.ReadLine();
         }
     }
