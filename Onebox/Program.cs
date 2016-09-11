@@ -10,7 +10,7 @@ namespace Onebox
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world");
+            Console.WriteLine("T3");
             Console.ReadLine();
         }
     }
