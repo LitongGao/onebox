@@ -1,0 +1,6 @@
+E:\Git\Gaolitong\Branch\Onebox\onebox\TestParse\bin\Debug\TestParse.exe.config
+E:\Git\Gaolitong\Branch\Onebox\onebox\TestParse\obj\Debug\TestParse.csprojResolveAssemblyReference.cache
+E:\Git\Gaolitong\Branch\Onebox\onebox\TestParse\bin\Debug\TestParse.exe
+E:\Git\Gaolitong\Branch\Onebox\onebox\TestParse\bin\Debug\TestParse.pdb
+E:\Git\Gaolitong\Branch\Onebox\onebox\TestParse\obj\Debug\TestParse.exe
+E:\Git\Gaolitong\Branch\Onebox\onebox\TestParse\obj\Debug\TestParse.pdb
