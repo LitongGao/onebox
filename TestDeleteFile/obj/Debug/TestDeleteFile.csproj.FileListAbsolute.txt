@@ -1,0 +1,6 @@
+E:\Git\Gaolitong\Branch\Onebox\onebox\TestDeleteFile\bin\Debug\TestDeleteFile.exe.config
+E:\Git\Gaolitong\Branch\Onebox\onebox\TestDeleteFile\bin\Debug\TestDeleteFile.exe
+E:\Git\Gaolitong\Branch\Onebox\onebox\TestDeleteFile\bin\Debug\TestDeleteFile.pdb
+E:\Git\Gaolitong\Branch\Onebox\onebox\TestDeleteFile\obj\Debug\TestDeleteFile.csprojResolveAssemblyReference.cache
+E:\Git\Gaolitong\Branch\Onebox\onebox\TestDeleteFile\obj\Debug\TestDeleteFile.exe
+E:\Git\Gaolitong\Branch\Onebox\onebox\TestDeleteFile\obj\Debug\TestDeleteFile.pdb
